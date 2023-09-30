@@ -11,6 +11,5 @@ acounEmail = "dev@google.com";
 acountPassword = "87654321";
 acounCity = "Bangloru";
 console.log([acounEmail, acountPassword, acounCity]);
-
 /* Prefer not use var
 becouse of issue in vlock scope and functional scope */
