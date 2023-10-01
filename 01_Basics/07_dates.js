@@ -29,6 +29,6 @@ console.log(newDate.getDay()); // starting from 0
 newDate.toLocaleString("default", {
   weekday: "long",
   
-});
+ });
 
 console.log(newDate.weekday);
