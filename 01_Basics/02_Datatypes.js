@@ -3,7 +3,7 @@
 //alert(3 + 5) // don't work ,becouse we use Node js not browser;
 
 const age = 85;
-//str ="Hello ranjeet";
+// const str ="Hello ranjeet";
 
 //DataTypes
 // Number => 2 to power 54
