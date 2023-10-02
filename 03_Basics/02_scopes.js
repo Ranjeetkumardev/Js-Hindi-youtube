@@ -50,7 +50,7 @@ function addone(num) {
 }
 
 // dono function hi h par esse exprestion bol diya jata ye kuch hold kar sakta h like fun ,json ,string etc 
-addTwo(5); // error // why bcz hoisting will learn about it futher 
+addTwo(5); // error // why bcz hoisting will learn about it futher  
 const addTwo = function (num) {
   return num + 2;
 };
